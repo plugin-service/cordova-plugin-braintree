@@ -1,3 +1,7 @@
+⚠️ No Longer In Development
+
+I ended up using the JavaScript version of the Braintree SDK in my project, and therefore have never gotten back to finishing this plugin. Please check out the fork which is located at: https://github.com/engineerapart/cordova-plugin-braintree
+
 # Braintree Cordova Plugin
 
 This is a [Cordova](http://cordova.apache.org/) plugin for the [Braintree](https://www.braintreepayments.com/) mobile payment processing SDK.
