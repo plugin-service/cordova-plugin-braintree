@@ -1,14 +1,11 @@
-⚠️ No Longer In Development
-
-I ended up using the JavaScript version of the Braintree SDK in my project, and therefore have never gotten back to finishing this plugin. Please check out the fork which is located at: https://github.com/engineerapart/cordova-plugin-braintree
 
 # Braintree Cordova Plugin
 
 This is a [Cordova](http://cordova.apache.org/) plugin for the [Braintree](https://www.braintreepayments.com/) mobile payment processing SDK.
 
-This version of the plugin uses versions `4.14.0` (iOS) and `2.12.0` (Android) of the Braintree mobile SDK. Documentation for the Braintree SDK can be found [here](https://developers.braintreepayments.com/start/overview). Before start using this plugin please read that documentation.
-
-**This plugin is still in development.**
+**Latest Update**
+-----------------
+**Upgraded plugin for SDK versions 4.+ for Android and 5.+ for iOS is available. The upgraded version of the plugin has already been integrated by a company in Italy. Email your request to plugins@snapcommute.com in case you are interested to explore**
 
 # Install
 
